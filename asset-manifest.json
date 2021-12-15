@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/caricaturas/static/css/main.56e6221f.css",
+    "main.js": "/caricaturas/static/js/main.f1b64958.js",
+    "static/js/787.bf61fcff.chunk.js": "/caricaturas/static/js/787.bf61fcff.chunk.js",
+    "index.html": "/caricaturas/index.html",
+    "main.56e6221f.css.map": "/caricaturas/static/css/main.56e6221f.css.map",
+    "main.f1b64958.js.map": "/caricaturas/static/js/main.f1b64958.js.map",
+    "787.bf61fcff.chunk.js.map": "/caricaturas/static/js/787.bf61fcff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56e6221f.css",
+    "static/js/main.f1b64958.js"
+  ]
+}
